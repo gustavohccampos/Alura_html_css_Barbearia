@@ -8,8 +8,7 @@
 ![image](https://user-images.githubusercontent.com/53590418/164118259-33dc04e4-904a-47bb-a583-46803efc76b7.png)
 
 
-Após concluir o projeto, ajustei o CSS para tornar o site responsivo e ajustavel as telas de qualquer dispositivo:
-![image](https://user-images.githubusercontent.com/53590418/164118318-8e833d0d-de3a-47af-b358-31ecae425e2c.png)
-
+Após concluir o projeto, ajustei o CSS para tornar o site responsivo as telas de qualquer dispositivo:
 ![image](https://user-images.githubusercontent.com/53590418/164118097-7d1e5525-491a-49cc-b3cf-030083188f9e.png)
+![image](https://user-images.githubusercontent.com/53590418/164118413-b5d3f4d4-8966-40c7-b51d-4f64d54ec467.png)
 ![image](https://user-images.githubusercontent.com/53590418/164118284-d79c239f-c8fb-4ebf-90df-db1f6b9d59b3.png)
